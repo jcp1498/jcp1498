@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Active Directory Lab](https://github.com/jcp1498/Active-Directory-Lab)
-  - [Home Lab (Documentation W.I.P)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Home Lab (Documentation W.I.P)](https://github.com/jcp1498/Home-Lab-documentation)
   - [Ticketing System](https://github.com/jcp1498/Ticketing-System-Lab)
 
 <h2> 🤳 Connect with me:</h2>

@@ -1,10 +1,10 @@
-<h1>Hi, I'm Josh! <h3>College student at Rutgers University studying Information technology and Informatics while minoring in Critical Intelligence Studies! I made a portfolio to show my projects and demonstrate what i've learned
+<h1>Hi, I'm Josh! <h3>College student at Rutgers University studying Information technology and Informatics while minoring in Critical Intelligence Studies! I made a portfolio to show my projects and demonstrate what i've learned. More Projects coming soon!
 
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Active Directory Lab](https://github.com/jcp1498/Active-Directory-Lab)
   - [Home Lab (Documentation W.I.P)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Ticketing System](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Ticketing System](https://github.com/jcp1498/Ticketing-System-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 

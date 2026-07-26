@@ -5,6 +5,7 @@
   - [Active Directory Lab](https://github.com/jcp1498/Active-Directory-Lab)
   - [Home Lab (Documentation W.I.P)](https://github.com/jcp1498/Home-Lab-documentation)
   - [Ticketing System](https://github.com/jcp1498/Ticketing-System-Lab)
+  - [NYT Database Project](https://github.com/jcp1498/NYT-Database-Project)
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <h3>College student at Rutgers University studying Information technology and Informatics while minoring in Critical Intelligence Studies! I made a portfolio to show my projects and demonstrate what i've learned. More Projects coming soon!
+<h1>Hi, I'm Josh! <h3>College student studying Information technology and Informatics while minoring in Critical Intelligence Studies! I made a portfolio to show my projects and demonstrate what I've learned and my love for IT. More projects on the way!
 
 <h2>👨‍💻 IT Projects:</h2>
 
